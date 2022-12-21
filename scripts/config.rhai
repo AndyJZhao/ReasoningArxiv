@@ -2,7 +2,7 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["Reasoning", "Knowledge Graph"];
 let titles_method = ["Knowledge Graph", "Reasoning", "Logic Rule", "first-order logic", "query answering"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Michael Bronstein", "Max Welling", "Pietro Liò", "Kaiming He", "Petar Veličković", "Jian Tang", "Michael Galkin", "Hongyu Ren", "William cohen", "Pasquale minervini", "Jure Leskovec", "Denny Zhou", "Percy Liang", "Wanjun Zhong", "William cohen", "William yang", "wangmuhan zhang", "sebestian ridel", "quanming yao", "Pasquale minervini", "Meng Qu", "Zhaocheng Zhu", "Zhanqiu Zhang"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Michael Bronstein", "Max Welling", "Pietro Liò", "Kaiming He", "Petar Veličković", "Jian Tang", "Michael Galkin", "Hongyu Ren", "William cohen", "Pasquale minervini", "Jure Leskovec", "Denny Zhou", "Percy Liang", "Li Dong", "William yang", "wangmuhan zhang", "sebestian ridel", "quanming yao", "Pasquale minervini", "Meng Qu", "Zhaocheng Zhu", "Zhanqiu Zhang"];
 
 let conferences = [
     // AI
