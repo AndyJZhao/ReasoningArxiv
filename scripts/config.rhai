@@ -2,7 +2,7 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["BERT", "GPT", "Transformer", "Knowledge Graph"];
 let titles_method = ["Knowledge Graph", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Jian Tang", "Zhaocheng Zhu", "Michael Galkin", "Hongxu Ren", "Jure Leskovec"];
+let authors_array = ["Jian Tang", "Zhaocheng Zhu", "Meng Qu", "Michael Galkin", "Hongxu Ren", "Jure Leskovec"];
 
 let conferences = [
     // AI
