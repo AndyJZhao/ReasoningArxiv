@@ -1,5 +1,5 @@
 site_title = "Reasoning Arxiv Daily Feed"
-limit_days = 7
+limit_days = 30
 cache_url = "https://andyjzhao.github.io/ReasoningArxiv/cache.json"
 
 [[sources]]
@@ -22,10 +22,6 @@ limit = 150
 category = "cs.LG"
 title = "Machine Learning"
 
-[[sources]]
-limit = 150
-category = "cs.MM"
-title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
