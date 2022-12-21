@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["Reasoning", "Graph Neural Network", "Knowledge Graph"];
-let titles_method = ["Knowledge Graph", "Reasoning", "Graph Neural Network", "Logic Rule", "first-order logic", "query answering"];
+let titles_model = ["Reasoning", "Knowledge Graph"];
+let titles_method = ["Knowledge Graph", "Reasoning", "Logic Rule", "first-order logic", "query answering"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Jian Tang", "Zhaocheng Zhu", "Meng Qu", "Michael Galkin", "Hongyu Ren", "William cohen", "Pasquale minervini", "Jure Leskovec", "Denny Zhou", "Percy Liang", "Wanjun Zhong"];
 
