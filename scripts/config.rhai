@@ -3,7 +3,7 @@ let titles_model = ["Reasoning", "Knowledge Graph"];
 let titles_method = ["Knowledge Graph", "Reasoning", "Logic Rule", "first-order logic", "query answering"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Michael Bronstein", "Max Welling", "Pietro Liò", "Pietro Lio", "Kaiming He", "Petar Veličković", "Jian Tang", "Michael Galkin", "Hongyu Ren", "William cohen", "Pasquale minervini", "Jure Leskovec", "Denny Zhou", "Percy Liang", "Li Dong", "William yang", "Muhan zhang", "sebestian ridel", "quanming yao", "Pasquale minervini", "Meng Qu", "Zhaocheng Zhu", "Zhanqiu Zhang", "Michihiro Yasunaga", "Dan Roth
-"];
+", "Michael Henry Tessler"];
 
 let conferences = [
     // AI
