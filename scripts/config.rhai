@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview", "Transformer", "GPT", "Bert"];
 let titles_model = ["Reasoning", "Knowledge Graph"];
 let titles_method = ["Knowledge Graph", "Reasoning", "Logic Rule", "first-order logic", "query answering"];
 let titles =  titles_model + titles_method + titles_type;
