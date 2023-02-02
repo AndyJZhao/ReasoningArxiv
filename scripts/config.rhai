@@ -1,5 +1,5 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview", "Transformer", "GPT", "Bert", "Reasoning"];
-let titles_model = ["Reasoning", "Knowledge Graph"];
+let titles_type = ["Link Prediction", "Reasoning", "Knowledge Graph"];
+let titles_model = ["Transformer", "GPT", "Bert", "Graph Neural Network"];
 let titles_method = ["Knowledge Graph", "Reasoning", "Logic Rule", "first-order logic", "query answering", "System 2"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Michael Bronstein", "Max Welling", "Pietro Liò", "Pietro Lio", "Kaiming He", "Petar Veličković", "Jian Tang", "Michael Galkin", "Hongyu Ren", "William cohen", "Pasquale minervini", "Jure Leskovec", "Denny Zhou", "Percy Liang", "Li Dong", "William yang", "Muhan zhang", "sebestian ridel", "quanming yao", "Pasquale minervini", "Meng Qu", "Zhaocheng Zhu", 
